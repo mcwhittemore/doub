@@ -1,0 +1,3 @@
+[submodule "doubscript"]
+	path = doubscript
+	url = git@github.com:mcwhittemore/doubscript.git
